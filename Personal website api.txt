@@ -1,0 +1,14 @@
+找到合适的设计图纸:
+	http://recepkutuk.com/
+先好好学习下transtion&&transform
+标语：任何一个为了生存而努力的人，都值得被尊重！
+希望这个网站上有的内容：
+	1.穿墙效果
+	2.智能社导航
+	3.css爆炸效果
+
+参考网页	http://reeoo.com/tag/designer 很多国外非常漂亮网站的集合
+	http://www.kinoz.com/#links  个人网站首页效果图
+	http://www.owaikeo.com/portfolio/ 卡通图片
+
+	

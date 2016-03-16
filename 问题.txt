@@ -1,0 +1,7 @@
+1.为什么用position:fixed的时候min-width会失效？
+	别用min-width	
+	用width:100%
+2.网站锚点
+	目前暂时用jquery解决
+3.textarea文字输入框字数统计限制问题
+	maxlength="50" 用这个属性解决
